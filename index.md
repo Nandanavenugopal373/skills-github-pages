@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome
 ---
 Welcome to my blog
 This is my first blog...
